@@ -1,0 +1,17 @@
+.cleiton{
+    background-color: pink;
+}
+.cleiton:hover{
+    background-color: purple;
+}
+.bonito{
+    background-color: white;
+}
+.bonito:hover{
+   background-color:blue;
+   color-scheme: white;
+}
+.margen{
+    display: block;
+    margin: 8px;
+}
